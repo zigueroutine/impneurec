@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "ImpNeuRec — Comercio Premium de Neumáticos",
+    "description": "Su socio de confianza en la distribución premium de neumáticos. Neumáticos de calidad para cada camino, cada vehículo, cada viaje."
+  },
+  "nav": {
+    "about": "Nosotros",
+    "products": "Productos",
+    "whyUs": "Por Qué Nosotros",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "headline": "Impulsando el Mundo",
+    "subheadline": "Distribución premium de neumáticos para cada camino, cada vehículo, cada viaje.",
+    "cta": "Solicitar Presupuesto"
+  },
+  "about": {
+    "title": "Sobre Nosotros",
+    "subtitle": "Construido sobre décadas de experiencia en la industria del neumático",
+    "description": "ImpNeuRec es una empresa líder en comercio de neumáticos que conecta a los principales fabricantes con distribuidores y minoristas en todo el mundo. Nos especializamos en la obtención de neumáticos de alta calidad en todas las categorías, garantizando precios competitivos y cadenas de suministro fiables.",
+    "quality": {
+      "title": "Calidad Primero",
+      "description": "Cada neumático que comercializamos cumple rigurosos estándares internacionales de calidad y seguridad."
+    },
+    "trust": {
+      "title": "Socios de Confianza",
+      "description": "Relaciones duraderas con los principales fabricantes y marcas de neumáticos del mundo."
+    },
+    "service": {
+      "title": "Servicio Completo",
+      "description": "Logística integral, precios competitivos y gestión de cuentas dedicada."
+    }
+  },
+  "products": {
+    "title": "Nuestros Productos",
+    "subtitle": "Soluciones integrales de neumáticos para cada aplicación",
+    "passenger": {
+      "title": "Neumáticos de Turismo",
+      "description": "Neumáticos de alto rendimiento y para todas las estaciones para sedanes, compactos y coupés de las principales marcas mundiales."
+    },
+    "suv": {
+      "title": "Neumáticos SUV y 4x4",
+      "description": "Neumáticos todo terreno y de carretera diseñados para SUVs, crossovers y vehículos todoterreno."
+    },
+    "commercial": {
+      "title": "Neumáticos Comerciales",
+      "description": "Neumáticos duraderos para camiones y furgonetas construidos para cargas pesadas, largas distancias y máximo tiempo de actividad."
+    },
+    "industrial": {
+      "title": "Neumáticos Industriales",
+      "description": "Neumáticos especializados para carretillas elevadoras, cargadoras, equipos agrícolas y maquinaria industrial."
+    }
+  },
+  "whyUs": {
+    "title": "Por Qué Elegirnos",
+    "subtitle": "Números que hablan por sí mismos",
+    "years": "Años de Experiencia",
+    "brands": "Marcas Asociadas",
+    "clients": "Clientes Satisfechos",
+    "diff1": {
+      "title": "Red Global",
+      "description": "Asociaciones directas con fabricantes en Europa, Asia y las Américas."
+    },
+    "diff2": {
+      "title": "Precios Competitivos",
+      "description": "Poder de compra por volumen que se traduce en mejores márgenes para su negocio."
+    },
+    "diff3": {
+      "title": "Logística Rápida",
+      "description": "Cadena de suministro optimizada con almacenamiento y entrega en múltiples continentes."
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "Confianza de distribuidores y minoristas en todo el mundo",
+    "t1": {
+      "text": "ImpNeuRec ha sido nuestro proveedor principal de neumáticos durante más de 5 años. Su fiabilidad y gama de productos son inigualables en la industria.",
+      "author": "Carlos Mendes",
+      "role": "Gerente de Flota, TransLogística"
+    },
+    "t2": {
+      "text": "El equipo de ImpNeuRec entiende las necesidades de nuestro mercado. Entregas rápidas, precios competitivos y un servicio al cliente excepcional.",
+      "author": "Maria Fernández",
+      "role": "Directora de Compras, AutoPneus"
+    },
+    "t3": {
+      "text": "Nos cambiamos a ImpNeuRec hace dos años y no hemos mirado atrás. La calidad de sus productos y su logística son de clase mundial.",
+      "author": "Hans Weber",
+      "role": "Gerente de Operaciones, TireMax GmbH"
+    }
+  },
+  "contact": {
+    "title": "Contáctenos",
+    "subtitle": "¿Listo para asociarse con nosotros? Comuníquese hoy.",
+    "name": "Nombre Completo",
+    "email": "Correo Electrónico",
+    "phone": "Teléfono",
+    "message": "Su Mensaje",
+    "send": "Enviar Mensaje",
+    "address": "Lisboa, Portugal",
+    "phoneNumber": "+351 210 000 000",
+    "emailAddress": "info@impneurec.com"
+  },
+  "footer": {
+    "description": "Su socio de confianza en la distribución premium de neumáticos en todo el mundo.",
+    "quickLinks": "Enlaces Rápidos",
+    "contactInfo": "Información de Contacto",
+    "rights": "Todos los derechos reservados."
+  }
+}

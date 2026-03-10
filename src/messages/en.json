@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "ImpNeuRec — Premium Tire Trading",
+    "description": "Your trusted partner in premium tire distribution. Quality tires for every road, every vehicle, every journey."
+  },
+  "nav": {
+    "about": "About",
+    "products": "Products",
+    "whyUs": "Why Us",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "headline": "Driving the World Forward",
+    "subheadline": "Premium tire distribution for every road, every vehicle, every journey.",
+    "cta": "Get a Quote"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Built on decades of expertise in the tire industry",
+    "description": "ImpNeuRec is a leading tire trading company connecting top manufacturers with distributors and retailers worldwide. We specialize in sourcing high-quality tires across all categories, ensuring competitive pricing and reliable supply chains.",
+    "quality": {
+      "title": "Quality First",
+      "description": "Every tire we trade meets rigorous international quality and safety standards."
+    },
+    "trust": {
+      "title": "Trusted Partners",
+      "description": "Long-standing relationships with the world's top tire manufacturers and brands."
+    },
+    "service": {
+      "title": "Full Service",
+      "description": "End-to-end logistics, competitive pricing, and dedicated account management."
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Comprehensive tire solutions for every application",
+    "passenger": {
+      "title": "Passenger Tires",
+      "description": "High-performance and all-season tires for sedans, hatchbacks, and coupes from leading global brands."
+    },
+    "suv": {
+      "title": "SUV & 4x4 Tires",
+      "description": "All-terrain and highway tires engineered for SUVs, crossovers, and off-road vehicles."
+    },
+    "commercial": {
+      "title": "Commercial Tires",
+      "description": "Durable truck and van tires built for heavy loads, long distances, and maximum uptime."
+    },
+    "industrial": {
+      "title": "Industrial Tires",
+      "description": "Specialized tires for forklifts, loaders, agricultural equipment, and industrial machinery."
+    }
+  },
+  "whyUs": {
+    "title": "Why Choose Us",
+    "subtitle": "Numbers that speak for themselves",
+    "years": "Years of Experience",
+    "brands": "Partner Brands",
+    "clients": "Satisfied Clients",
+    "diff1": {
+      "title": "Global Network",
+      "description": "Direct partnerships with manufacturers across Europe, Asia, and the Americas."
+    },
+    "diff2": {
+      "title": "Competitive Pricing",
+      "description": "Volume purchasing power that translates to better margins for your business."
+    },
+    "diff3": {
+      "title": "Fast Logistics",
+      "description": "Streamlined supply chain with warehousing and delivery across multiple continents."
+    }
+  },
+  "testimonials": {
+    "title": "What Our Clients Say",
+    "subtitle": "Trusted by distributors and retailers worldwide",
+    "t1": {
+      "text": "ImpNeuRec has been our primary tire supplier for over 5 years. Their reliability and product range are unmatched in the industry.",
+      "author": "Carlos Mendes",
+      "role": "Fleet Manager, TransLogística"
+    },
+    "t2": {
+      "text": "The team at ImpNeuRec understands our market needs. Fast deliveries, competitive prices, and outstanding customer service.",
+      "author": "Maria Fernández",
+      "role": "Purchasing Director, AutoPneus"
+    },
+    "t3": {
+      "text": "We switched to ImpNeuRec two years ago and haven't looked back. Their product quality and logistics are world-class.",
+      "author": "Hans Weber",
+      "role": "Operations Manager, TireMax GmbH"
+    }
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Ready to partner with us? Reach out today.",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "message": "Your Message",
+    "send": "Send Message",
+    "address": "Lisbon, Portugal",
+    "phoneNumber": "+351 210 000 000",
+    "emailAddress": "info@impneurec.com"
+  },
+  "footer": {
+    "description": "Your trusted partner in premium tire distribution worldwide.",
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Info",
+    "rights": "All rights reserved."
+  }
+}

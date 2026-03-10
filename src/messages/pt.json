@@ -1,0 +1,111 @@
+{
+  "meta": {
+    "title": "ImpNeuRec — Comércio Premium de Pneus",
+    "description": "O seu parceiro de confiança na distribuição premium de pneus. Pneus de qualidade para cada estrada, cada veículo, cada viagem."
+  },
+  "nav": {
+    "about": "Sobre Nós",
+    "products": "Produtos",
+    "whyUs": "Porquê Nós",
+    "testimonials": "Testemunhos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "headline": "A Mover o Mundo",
+    "subheadline": "Distribuição premium de pneus para cada estrada, cada veículo, cada viagem.",
+    "cta": "Pedir Orçamento"
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "subtitle": "Construído sobre décadas de experiência na indústria de pneus",
+    "description": "A ImpNeuRec é uma empresa líder no comércio de pneus que liga os principais fabricantes a distribuidores e retalhistas em todo o mundo. Especializamo-nos na obtenção de pneus de alta qualidade em todas as categorias, garantindo preços competitivos e cadeias de fornecimento fiáveis.",
+    "quality": {
+      "title": "Qualidade em Primeiro",
+      "description": "Cada pneu que comercializamos cumpre rigorosos padrões internacionais de qualidade e segurança."
+    },
+    "trust": {
+      "title": "Parceiros de Confiança",
+      "description": "Relações duradouras com os principais fabricantes e marcas de pneus do mundo."
+    },
+    "service": {
+      "title": "Serviço Completo",
+      "description": "Logística integral, preços competitivos e gestão de contas dedicada."
+    }
+  },
+  "products": {
+    "title": "Os Nossos Produtos",
+    "subtitle": "Soluções completas de pneus para cada aplicação",
+    "passenger": {
+      "title": "Pneus de Turismo",
+      "description": "Pneus de alto desempenho e para todas as estações para sedans, compactos e coupés das principais marcas mundiais."
+    },
+    "suv": {
+      "title": "Pneus SUV e 4x4",
+      "description": "Pneus todo-o-terreno e de estrada concebidos para SUVs, crossovers e veículos fora-de-estrada."
+    },
+    "commercial": {
+      "title": "Pneus Comerciais",
+      "description": "Pneus duráveis para camiões e carrinhas construídos para cargas pesadas, longas distâncias e máximo tempo de atividade."
+    },
+    "industrial": {
+      "title": "Pneus Industriais",
+      "description": "Pneus especializados para empilhadores, pás carregadoras, equipamento agrícola e maquinaria industrial."
+    }
+  },
+  "whyUs": {
+    "title": "Porquê Escolher-nos",
+    "subtitle": "Números que falam por si",
+    "years": "Anos de Experiência",
+    "brands": "Marcas Parceiras",
+    "clients": "Clientes Satisfeitos",
+    "diff1": {
+      "title": "Rede Global",
+      "description": "Parcerias diretas com fabricantes na Europa, Ásia e Américas."
+    },
+    "diff2": {
+      "title": "Preços Competitivos",
+      "description": "Poder de compra por volume que se traduz em melhores margens para o seu negócio."
+    },
+    "diff3": {
+      "title": "Logística Rápida",
+      "description": "Cadeia de fornecimento otimizada com armazenamento e entrega em múltiplos continentes."
+    }
+  },
+  "testimonials": {
+    "title": "O Que Dizem os Nossos Clientes",
+    "subtitle": "Confiança de distribuidores e retalhistas em todo o mundo",
+    "t1": {
+      "text": "A ImpNeuRec tem sido o nosso fornecedor principal de pneus há mais de 5 anos. A sua fiabilidade e gama de produtos são incomparáveis na indústria.",
+      "author": "Carlos Mendes",
+      "role": "Gestor de Frota, TransLogística"
+    },
+    "t2": {
+      "text": "A equipa da ImpNeuRec compreende as necessidades do nosso mercado. Entregas rápidas, preços competitivos e um serviço ao cliente excecional.",
+      "author": "Maria Fernández",
+      "role": "Diretora de Compras, AutoPneus"
+    },
+    "t3": {
+      "text": "Mudámos para a ImpNeuRec há dois anos e não olhámos para trás. A qualidade dos seus produtos e a sua logística são de classe mundial.",
+      "author": "Hans Weber",
+      "role": "Gestor de Operações, TireMax GmbH"
+    }
+  },
+  "contact": {
+    "title": "Entre em Contacto",
+    "subtitle": "Pronto para ser nosso parceiro? Contacte-nos hoje.",
+    "name": "Nome Completo",
+    "email": "Endereço de Email",
+    "phone": "Telefone",
+    "message": "A Sua Mensagem",
+    "send": "Enviar Mensagem",
+    "address": "Lisboa, Portugal",
+    "phoneNumber": "+351 210 000 000",
+    "emailAddress": "info@impneurec.com"
+  },
+  "footer": {
+    "description": "O seu parceiro de confiança na distribuição premium de pneus em todo o mundo.",
+    "quickLinks": "Links Rápidos",
+    "contactInfo": "Informações de Contacto",
+    "rights": "Todos os direitos reservados."
+  }
+}
