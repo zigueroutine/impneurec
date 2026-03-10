@@ -115,6 +115,16 @@ export function Contact() {
                     </div>
                   </div>
                 </div>
+                <div className="flex items-start gap-4">
+                  <div className="w-10 h-10 bg-accent/10 text-accent flex items-center justify-center shrink-0 font-bold">
+                    C
+                  </div>
+                  <div>
+                    <div className="font-heading font-bold uppercase tracking-wider text-sm mb-1">
+                      {t("cif")}
+                    </div>
+                  </div>
+                </div>
               </div>
 
               {/* Map placeholder */}

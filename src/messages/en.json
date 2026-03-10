@@ -98,9 +98,10 @@
     "phone": "Phone Number",
     "message": "Your Message",
     "send": "Send Message",
-    "address": "Lisbon, Portugal",
-    "phoneNumber": "+351 210 000 000",
-    "emailAddress": "info@impneurec.com"
+    "address": "Calle José Abascal, 44, Madrid, Spain",
+    "phoneNumber": "+34 672 92 86 86",
+    "emailAddress": "info@impneurec.com",
+    "cif": "CIF: B22468656"
   },
   "footer": {
     "description": "Your trusted partner in premium tire distribution worldwide.",

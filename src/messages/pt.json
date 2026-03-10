@@ -98,9 +98,10 @@
     "phone": "Telefone",
     "message": "A Sua Mensagem",
     "send": "Enviar Mensagem",
-    "address": "Lisboa, Portugal",
-    "phoneNumber": "+351 210 000 000",
-    "emailAddress": "info@impneurec.com"
+    "address": "Calle José Abascal, 44, Madrid, Espanha",
+    "phoneNumber": "+34 672 92 86 86",
+    "emailAddress": "info@impneurec.com",
+    "cif": "CIF: B22468656"
   },
   "footer": {
     "description": "O seu parceiro de confiança na distribuição premium de pneus em todo o mundo.",

@@ -98,9 +98,10 @@
     "phone": "Teléfono",
     "message": "Su Mensaje",
     "send": "Enviar Mensaje",
-    "address": "Lisboa, Portugal",
-    "phoneNumber": "+351 210 000 000",
-    "emailAddress": "info@impneurec.com"
+    "address": "Calle José Abascal, 44, Madrid, España",
+    "phoneNumber": "+34 672 92 86 86",
+    "emailAddress": "info@impneurec.com",
+    "cif": "CIF: B22468656"
   },
   "footer": {
     "description": "Su socio de confianza en la distribución premium de neumáticos en todo el mundo.",

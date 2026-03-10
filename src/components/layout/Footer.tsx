@@ -51,6 +51,7 @@ export function Footer() {
               <li>{contact("address")}</li>
               <li>{contact("phoneNumber")}</li>
               <li>{contact("emailAddress")}</li>
+              <li>{contact("cif")}</li>
             </ul>
 
             {/* Social icons placeholder */}
