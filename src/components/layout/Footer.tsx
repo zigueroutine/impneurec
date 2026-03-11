@@ -7,14 +7,14 @@ export function Footer() {
 
   return (
     <footer className="bg-bg-card border-t border-border">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-12">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 md:py-16">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
           {/* Brand */}
           <div>
             <div className="font-heading text-2xl font-bold tracking-wider mb-4">
-              <span className="text-accent">Imp</span>
-              <span className="text-text">Neu</span>
-              <span className="text-secondary">Rec</span>
+              <span className="text-text">imp</span>
+              <span className="text-text">neu</span>
+              <span className="text-accent">rec</span>
             </div>
             <p className="text-text-muted leading-relaxed">
               {t("description")}

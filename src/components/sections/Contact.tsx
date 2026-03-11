@@ -26,11 +26,11 @@ export function Contact() {
   }
 
   return (
-    <section id="contact" className="py-24 md:py-32">
+    <section id="contact" className="py-16 md:py-32">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeading title={t("title")} subtitle={t("subtitle")} />
 
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 lg:gap-12">
           {/* Form */}
           <AnimatedSection animation="slideInLeft">
             <form onSubmit={handleSubmit} className="space-y-6">
@@ -128,7 +128,7 @@ export function Contact() {
               </div>
 
               {/* Map placeholder */}
-              <div className="bg-bg-card border border-border h-64 flex items-center justify-center text-text-muted">
+              <div className="bg-bg-card border border-border h-48 md:h-64 flex items-center justify-center text-text-muted">
                 <span className="font-heading uppercase tracking-wider">
                   Map Placeholder
                 </span>

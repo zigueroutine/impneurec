@@ -15,8 +15,8 @@ export function TestimonialCard({
 }: TestimonialCardProps) {
   return (
     <AnimatedSection animation="fadeInUp" delay={delay}>
-      <div className="bg-bg-card border border-border p-8 h-full flex flex-col">
-        <div className="text-accent text-4xl font-heading mb-4">&ldquo;</div>
+      <div className="bg-bg-card border border-border p-5 md:p-8 h-full flex flex-col">
+        <div className="text-accent text-3xl md:text-4xl font-heading mb-4">&ldquo;</div>
         <p className="text-text-muted leading-relaxed flex-1 mb-6">{text}</p>
         <div>
           <div className="font-heading font-bold text-lg">{author}</div>

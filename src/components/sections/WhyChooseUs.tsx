@@ -19,12 +19,12 @@ export function WhyChooseUs() {
   const t = useTranslations("whyUs");
 
   return (
-    <section id="why-us" className="py-24 md:py-32 bg-tread-pattern">
+    <section id="why-us" className="py-16 md:py-32 bg-tread-pattern">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <SectionHeading title={t("title")} subtitle={t("subtitle")} />
 
         {/* Stats */}
-        <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 mb-20">
+        <div className="grid grid-cols-3 gap-4 sm:gap-8 mb-12 md:mb-20">
           {stats.map(({ value, key }, i) => (
             <StatCard
               key={key}
@@ -43,7 +43,7 @@ export function WhyChooseUs() {
               animation="slideInLeft"
               delay={i * 0.15}
             >
-              <div className="border-l-4 border-accent pl-6 py-2">
+              <div className="border-l-4 border-accent pl-4 md:pl-6 py-2">
                 <h3 className="font-heading text-xl font-bold uppercase tracking-wider mb-2">
                   {t(`${key}.title`)}
                 </h3>

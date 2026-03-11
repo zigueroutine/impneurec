@@ -1,110 +1,139 @@
 {
   "meta": {
-    "title": "ImpNeuRec — Comercio Premium de Neumáticos",
-    "description": "Su socio de confianza en la distribución premium de neumáticos. Neumáticos de calidad para cada camino, cada vehículo, cada viaje."
+    "title": "Distribuidor de Neumáticos al Por Mayor | ImpNeuRec",
+    "description": "Distribuidor de neumáticos al por mayor en Madrid. Neumáticos de turismo, SUV, comerciales e industriales de las mejores marcas. Solicite presupuesto."
   },
   "nav": {
     "about": "Nosotros",
     "products": "Productos",
     "whyUs": "Por Qué Nosotros",
     "testimonials": "Testimonios",
+    "faq": "FAQ",
     "contact": "Contacto"
   },
   "hero": {
-    "headline": "Impulsando el Mundo",
-    "subheadline": "Distribución premium de neumáticos para cada camino, cada vehículo, cada viaje.",
-    "cta": "Solicitar Presupuesto"
+    "headline": "Distribuidor de Neumáticos al Por Mayor en España",
+    "subheadline": "Importamos y distribuimos neumáticos al por mayor para talleres, flotas y distribuidores en toda España. Más de 50 marcas a precios competitivos.",
+    "cta": "Solicitar Presupuesto Sin Compromiso"
   },
   "about": {
-    "title": "Sobre Nosotros",
-    "subtitle": "Construido sobre décadas de experiencia en la industria del neumático",
-    "description": "ImpNeuRec es una empresa líder en comercio de neumáticos que conecta a los principales fabricantes con distribuidores y minoristas en todo el mundo. Nos especializamos en la obtención de neumáticos de alta calidad en todas las categorías, garantizando precios competitivos y cadenas de suministro fiables.",
+    "title": "Su Proveedor de Neumáticos de Confianza",
+    "subtitle": "Importador y distribuidor de neumáticos al por mayor desde Madrid",
+    "description": "ImpNeuRec es un distribuidor de neumáticos al por mayor especializado en conectar a los principales fabricantes con talleres, flotas y distribuidores en España. Como importador de neumáticos con acceso directo a fábricas en Europa y Asia, ofrecemos precios competitivos de mayorista y un suministro fiable en todas las categorías.",
     "quality": {
-      "title": "Calidad Primero",
-      "description": "Cada neumático que comercializamos cumple rigurosos estándares internacionales de calidad y seguridad."
+      "title": "Normativa Europea",
+      "description": "Todos nuestros neumáticos cumplen con la normativa europea de homologación y los más altos estándares de seguridad."
     },
     "trust": {
-      "title": "Socios de Confianza",
-      "description": "Relaciones duraderas con los principales fabricantes y marcas de neumáticos del mundo."
+      "title": "Más de 50 Marcas",
+      "description": "Relaciones directas con fabricantes premium, de calidad-precio y económicos de todo el mundo."
     },
     "service": {
-      "title": "Servicio Completo",
-      "description": "Logística integral, precios competitivos y gestión de cuentas dedicada."
+      "title": "Distribución B2B",
+      "description": "Logística integral, precios de mayorista y gestión de cuentas dedicada para su negocio."
     }
   },
   "products": {
-    "title": "Nuestros Productos",
-    "subtitle": "Soluciones integrales de neumáticos para cada aplicación",
+    "title": "Neumáticos al Por Mayor",
+    "subtitle": "Catálogo completo para talleres, flotas y distribuidores",
     "passenger": {
       "title": "Neumáticos de Turismo",
-      "description": "Neumáticos de alto rendimiento y para todas las estaciones para sedanes, compactos y coupés de las principales marcas mundiales."
+      "description": "Neumáticos de alto rendimiento y todas las estaciones para turismos y compactos. Precios de mayorista en marcas premium y económicas."
     },
     "suv": {
       "title": "Neumáticos SUV y 4x4",
-      "description": "Neumáticos todo terreno y de carretera diseñados para SUVs, crossovers y vehículos todoterreno."
+      "description": "Neumáticos todo terreno y carretera para SUVs y todoterrenos. Stock permanente en las medidas más demandadas."
     },
     "commercial": {
       "title": "Neumáticos Comerciales",
-      "description": "Neumáticos duraderos para camiones y furgonetas construidos para cargas pesadas, largas distancias y máximo tiempo de actividad."
+      "description": "Neumáticos comerciales para flotas de transporte, camiones y furgonetas. Máxima durabilidad y coste por kilómetro optimizado."
     },
     "industrial": {
-      "title": "Neumáticos Industriales",
-      "description": "Neumáticos especializados para carretillas elevadoras, cargadoras, equipos agrícolas y maquinaria industrial."
+      "title": "Neumáticos Industriales al Por Mayor",
+      "description": "Neumáticos industriales al por mayor para carretillas, cargadoras, maquinaria agrícola e industrial. Suministro garantizado."
     }
   },
   "whyUs": {
     "title": "Por Qué Elegirnos",
-    "subtitle": "Números que hablan por sí mismos",
+    "subtitle": "Su distribuidor de neumáticos de referencia en España",
     "years": "Años de Experiencia",
-    "brands": "Marcas Asociadas",
-    "clients": "Clientes Satisfechos",
+    "brands": "Marcas Disponibles",
+    "clients": "Clientes Profesionales",
     "diff1": {
-      "title": "Red Global",
-      "description": "Asociaciones directas con fabricantes en Europa, Asia y las Américas."
+      "title": "Importación Directa",
+      "description": "Acuerdos directos con fabricantes en Europa, Asia y América. Sin intermediarios, mejores precios."
     },
     "diff2": {
-      "title": "Precios Competitivos",
-      "description": "Poder de compra por volumen que se traduce en mejores márgenes para su negocio."
+      "title": "Precios de Mayorista",
+      "description": "Poder de compra por volumen que se traduce en mejores márgenes para talleres y distribuidores."
     },
     "diff3": {
-      "title": "Logística Rápida",
-      "description": "Cadena de suministro optimizada con almacenamiento y entrega en múltiples continentes."
+      "title": "Entrega en 24-48h",
+      "description": "Almacén propio en Madrid con stock permanente. Entregas en 24-48 horas a toda la Península Ibérica."
     }
   },
   "testimonials": {
     "title": "Lo Que Dicen Nuestros Clientes",
-    "subtitle": "Confianza de distribuidores y minoristas en todo el mundo",
+    "subtitle": "Proveedores de neumáticos para talleres y distribuidores en toda España",
     "t1": {
-      "text": "ImpNeuRec ha sido nuestro proveedor principal de neumáticos durante más de 5 años. Su fiabilidad y gama de productos son inigualables en la industria.",
-      "author": "Carlos Mendes",
-      "role": "Gerente de Flota, TransLogística"
+      "text": "Llevamos más de 5 años comprando neumáticos al por mayor a ImpNeuRec. Su catálogo de marcas y la rapidez de entrega son clave para nuestro taller. Siempre tienen stock de las medidas que necesitamos.",
+      "author": "Javier Manzanares",
+      "role": "Director, Talleres Manzanares — Madrid"
     },
     "t2": {
-      "text": "El equipo de ImpNeuRec entiende las necesidades de nuestro mercado. Entregas rápidas, precios competitivos y un servicio al cliente excepcional.",
-      "author": "Maria Fernández",
-      "role": "Directora de Compras, AutoPneus"
+      "text": "Como distribuidores de neumáticos en Levante, necesitamos un proveedor fiable con precios competitivos. ImpNeuRec nos ofrece condiciones de mayorista reales y un servicio al cliente excepcional.",
+      "author": "Laura Gómez",
+      "role": "Gerente de Compras, Neumáticos Express Levante — Valencia"
     },
     "t3": {
-      "text": "Nos cambiamos a ImpNeuRec hace dos años y no hemos mirado atrás. La calidad de sus productos y su logística son de clase mundial.",
-      "author": "Hans Weber",
-      "role": "Gerente de Operaciones, TireMax GmbH"
+      "text": "Para nuestra flota de transporte, el coste por kilómetro es fundamental. ImpNeuRec nos asesora en neumáticos comerciales para flotas y sus precios de mayorista nos han permitido reducir costes un 15%.",
+      "author": "Miguel Ángel Torres",
+      "role": "Director de Operaciones, Transportes Iberia — Sevilla"
+    }
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "subtitle": "Resolvemos sus dudas sobre la compra de neumáticos al por mayor",
+    "q1": {
+      "question": "¿Cuál es el pedido mínimo para comprar neumáticos al por mayor?",
+      "answer": "Trabajamos con pedidos mínimos adaptados a cada cliente. Tanto si es un taller independiente como un gran distribuidor, tenemos condiciones flexibles. Contacte con nuestro equipo comercial para recibir una propuesta personalizada según sus necesidades de neumáticos al por mayor."
+    },
+    "q2": {
+      "question": "¿Qué marcas de neumáticos distribuyen?",
+      "answer": "Distribuimos más de 50 marcas de neumáticos, incluyendo marcas premium europeas, marcas de calidad-precio y marcas económicas. Nuestro catálogo abarca neumáticos de turismo, SUV, comerciales e industriales para cubrir todas las necesidades de su negocio."
+    },
+    "q3": {
+      "question": "¿Cuáles son los plazos de entrega de neumáticos?",
+      "answer": "Realizamos entregas en 24-48 horas para pedidos desde nuestro almacén en Madrid a toda la Península Ibérica. Para pedidos de importación directa, los plazos varían entre 2-4 semanas según origen y volumen."
+    },
+    "q4": {
+      "question": "¿Ofrecen neumáticos comerciales para flotas de transporte?",
+      "answer": "Sí, somos especialistas en neumáticos comerciales para flotas. Ofrecemos neumáticos para camiones, furgonetas y vehículos comerciales con precios de mayorista, contratos de suministro a largo plazo y asesoramiento técnico para optimizar el coste por kilómetro de su flota."
+    },
+    "q5": {
+      "question": "¿Cómo puedo solicitar un presupuesto de neumáticos al por mayor?",
+      "answer": "Puede solicitar presupuesto a través del formulario de contacto de nuestra web, por email a info@impneurec.com o llamando al +34 672 92 86 86. Indique las medidas, cantidades y tipo de neumático que necesita y recibirá una propuesta en menos de 24 horas."
+    },
+    "q6": {
+      "question": "¿Distribuyen neumáticos fuera de España?",
+      "answer": "Sí, además de nuestra distribución principal en España, exportamos neumáticos a Portugal, Francia y otros países europeos. Contamos con logística internacional y experiencia en exportación para ofrecer un servicio completo de distribución de neumáticos B2B en toda Europa."
     }
   },
   "contact": {
-    "title": "Contáctenos",
-    "subtitle": "¿Listo para asociarse con nosotros? Comuníquese hoy.",
+    "title": "Solicite Su Presupuesto",
+    "subtitle": "Reciba una propuesta personalizada en menos de 24 horas.",
     "name": "Nombre Completo",
     "email": "Correo Electrónico",
     "phone": "Teléfono",
-    "message": "Su Mensaje",
-    "send": "Enviar Mensaje",
+    "message": "Indique medidas, cantidades y tipo de neumático que necesita",
+    "send": "Enviar Solicitud",
     "address": "Calle José Abascal, 44, Madrid, España",
     "phoneNumber": "+34 672 92 86 86",
     "emailAddress": "info@impneurec.com",
     "cif": "CIF: B22468656"
   },
   "footer": {
-    "description": "Su socio de confianza en la distribución premium de neumáticos en todo el mundo.",
+    "description": "Distribuidor de neumáticos al por mayor en Madrid. Importador y proveedor de neumáticos para talleres, flotas y distribuidores en España.",
     "quickLinks": "Enlaces Rápidos",
     "contactInfo": "Información de Contacto",
     "rights": "Todos los derechos reservados."

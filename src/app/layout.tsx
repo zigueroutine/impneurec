@@ -14,14 +14,12 @@ const barlow = Barlow({
   display: "swap",
 });
 
+export const fontClasses = `${oswald.variable} ${barlow.variable}`;
+
 export default function RootLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  return (
-    <html lang="en" className={`${oswald.variable} ${barlow.variable}`}>
-      <body className="antialiased">{children}</body>
-    </html>
-  );
+  return children;
 }

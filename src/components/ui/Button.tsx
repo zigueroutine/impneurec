@@ -14,7 +14,7 @@ export function Button({
   className = "",
 }: ButtonProps) {
   const base =
-    "inline-flex items-center justify-center px-8 py-3 font-heading text-lg font-bold uppercase tracking-wider transition-all duration-300 cursor-pointer";
+    "inline-flex items-center justify-center px-6 py-3 md:px-8 font-heading text-base md:text-lg font-bold uppercase tracking-wider transition-all duration-300 cursor-pointer";
   const variants = {
     primary:
       "bg-accent text-white hover:bg-accent-hover shadow-lg shadow-accent/20 hover:shadow-accent/40",

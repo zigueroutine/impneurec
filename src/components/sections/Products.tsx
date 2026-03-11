@@ -13,7 +13,7 @@ export function Products() {
   const t = useTranslations("products");
 
   return (
-    <section id="products" className="py-24 md:py-32 gradient-section clip-diagonal">
+    <section id="products" className="py-16 md:py-32 gradient-section clip-diagonal">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         <SectionHeading title={t("title")} subtitle={t("subtitle")} />
 
@@ -24,7 +24,7 @@ export function Products() {
               animation="fadeInUp"
               delay={i * 0.1}
             >
-              <div className="bg-bg-card border border-border p-8 group hover:border-secondary transition-all duration-300 h-full">
+              <div className="bg-bg-card border border-border p-5 md:p-8 group hover:border-secondary transition-all duration-300 h-full">
                 <div className="w-14 h-14 bg-secondary/10 text-secondary font-heading font-bold text-xl flex items-center justify-center mb-6 group-hover:bg-secondary group-hover:text-bg transition-colors duration-300">
                   {icon}
                 </div>

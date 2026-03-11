@@ -1,110 +1,139 @@
 {
   "meta": {
-    "title": "ImpNeuRec — Comércio Premium de Pneus",
-    "description": "O seu parceiro de confiança na distribuição premium de pneus. Pneus de qualidade para cada estrada, cada veículo, cada viagem."
+    "title": "Distribuidor de Pneus por Grosso | ImpNeuRec",
+    "description": "Distribuidor de pneus por grosso em Madrid. Pneus de turismo, SUV, comerciais e industriais das melhores marcas. Solicite orçamento."
   },
   "nav": {
     "about": "Sobre Nós",
     "products": "Produtos",
     "whyUs": "Porquê Nós",
     "testimonials": "Testemunhos",
+    "faq": "FAQ",
     "contact": "Contacto"
   },
   "hero": {
-    "headline": "A Mover o Mundo",
-    "subheadline": "Distribuição premium de pneus para cada estrada, cada veículo, cada viagem.",
-    "cta": "Pedir Orçamento"
+    "headline": "Distribuidor de Pneus por Grosso em Espanha",
+    "subheadline": "Importamos e distribuímos pneus por grosso para oficinas, frotas e distribuidores em toda a Espanha. Mais de 50 marcas a preços competitivos.",
+    "cta": "Solicitar Orçamento Sem Compromisso"
   },
   "about": {
-    "title": "Sobre Nós",
-    "subtitle": "Construído sobre décadas de experiência na indústria de pneus",
-    "description": "A ImpNeuRec é uma empresa líder no comércio de pneus que liga os principais fabricantes a distribuidores e retalhistas em todo o mundo. Especializamo-nos na obtenção de pneus de alta qualidade em todas as categorias, garantindo preços competitivos e cadeias de fornecimento fiáveis.",
+    "title": "O Seu Fornecedor de Pneus de Confiança",
+    "subtitle": "Importador e distribuidor de pneus por grosso desde Madrid",
+    "description": "A ImpNeuRec é um distribuidor de pneus por grosso especializado em conectar os principais fabricantes com oficinas, frotas e distribuidores em Espanha. Como importador de pneus com acesso direto a fábricas na Europa e Ásia, oferecemos preços competitivos de grossista e um fornecimento fiável em todas as categorias.",
     "quality": {
-      "title": "Qualidade em Primeiro",
-      "description": "Cada pneu que comercializamos cumpre rigorosos padrões internacionais de qualidade e segurança."
+      "title": "Normas Europeias",
+      "description": "Todos os nossos pneus cumprem a regulamentação europeia de homologação e os mais altos padrões de segurança."
     },
     "trust": {
-      "title": "Parceiros de Confiança",
-      "description": "Relações duradouras com os principais fabricantes e marcas de pneus do mundo."
+      "title": "Mais de 50 Marcas",
+      "description": "Relações diretas com fabricantes premium, de qualidade-preço e económicos de todo o mundo."
     },
     "service": {
-      "title": "Serviço Completo",
-      "description": "Logística integral, preços competitivos e gestão de contas dedicada."
+      "title": "Distribuição B2B",
+      "description": "Logística integral, preços de grossista e gestão de contas dedicada para o seu negócio."
     }
   },
   "products": {
-    "title": "Os Nossos Produtos",
-    "subtitle": "Soluções completas de pneus para cada aplicação",
+    "title": "Pneus por Grosso",
+    "subtitle": "Catálogo completo para oficinas, frotas e distribuidores",
     "passenger": {
       "title": "Pneus de Turismo",
-      "description": "Pneus de alto desempenho e para todas as estações para sedans, compactos e coupés das principais marcas mundiais."
+      "description": "Pneus de alto desempenho e todas as estações para automóveis e compactos. Preços de grossista em marcas premium e económicas."
     },
     "suv": {
       "title": "Pneus SUV e 4x4",
-      "description": "Pneus todo-o-terreno e de estrada concebidos para SUVs, crossovers e veículos fora-de-estrada."
+      "description": "Pneus todo-o-terreno e estrada para SUVs e veículos fora-de-estrada. Stock permanente nas medidas mais procuradas."
     },
     "commercial": {
       "title": "Pneus Comerciais",
-      "description": "Pneus duráveis para camiões e carrinhas construídos para cargas pesadas, longas distâncias e máximo tempo de atividade."
+      "description": "Pneus comerciais para frotas de transporte, camiões e carrinhas. Máxima durabilidade e custo por quilómetro otimizado."
     },
     "industrial": {
-      "title": "Pneus Industriais",
-      "description": "Pneus especializados para empilhadores, pás carregadoras, equipamento agrícola e maquinaria industrial."
+      "title": "Pneus Industriais por Grosso",
+      "description": "Pneus industriais por grosso para empilhadores, pás carregadoras, maquinaria agrícola e industrial. Fornecimento garantido."
     }
   },
   "whyUs": {
     "title": "Porquê Escolher-nos",
-    "subtitle": "Números que falam por si",
+    "subtitle": "O seu distribuidor de pneus de referência em Espanha",
     "years": "Anos de Experiência",
-    "brands": "Marcas Parceiras",
-    "clients": "Clientes Satisfeitos",
+    "brands": "Marcas Disponíveis",
+    "clients": "Clientes Profissionais",
     "diff1": {
-      "title": "Rede Global",
-      "description": "Parcerias diretas com fabricantes na Europa, Ásia e Américas."
+      "title": "Importação Direta",
+      "description": "Acordos diretos com fabricantes na Europa, Ásia e América. Sem intermediários, melhores preços."
     },
     "diff2": {
-      "title": "Preços Competitivos",
-      "description": "Poder de compra por volume que se traduz em melhores margens para o seu negócio."
+      "title": "Preços de Grossista",
+      "description": "Poder de compra por volume que se traduz em melhores margens para oficinas e distribuidores."
     },
     "diff3": {
-      "title": "Logística Rápida",
-      "description": "Cadeia de fornecimento otimizada com armazenamento e entrega em múltiplos continentes."
+      "title": "Entrega em 24-48h",
+      "description": "Armazém próprio em Madrid com stock permanente. Entregas em 24-48 horas em toda a Península Ibérica."
     }
   },
   "testimonials": {
     "title": "O Que Dizem os Nossos Clientes",
-    "subtitle": "Confiança de distribuidores e retalhistas em todo o mundo",
+    "subtitle": "Fornecedor de pneus para oficinas e distribuidores em toda a Espanha",
     "t1": {
-      "text": "A ImpNeuRec tem sido o nosso fornecedor principal de pneus há mais de 5 anos. A sua fiabilidade e gama de produtos são incomparáveis na indústria.",
-      "author": "Carlos Mendes",
-      "role": "Gestor de Frota, TransLogística"
+      "text": "Compramos pneus por grosso à ImpNeuRec há mais de 5 anos. O catálogo de marcas e a rapidez de entrega são essenciais para a nossa oficina. Têm sempre stock das medidas que precisamos.",
+      "author": "Javier Manzanares",
+      "role": "Diretor, Talleres Manzanares — Madrid"
     },
     "t2": {
-      "text": "A equipa da ImpNeuRec compreende as necessidades do nosso mercado. Entregas rápidas, preços competitivos e um serviço ao cliente excecional.",
-      "author": "Maria Fernández",
-      "role": "Diretora de Compras, AutoPneus"
+      "text": "Como distribuidores de pneus em Levante, precisamos de um fornecedor fiável com preços competitivos. A ImpNeuRec oferece-nos condições de grossista reais e um serviço ao cliente excecional.",
+      "author": "Laura Gómez",
+      "role": "Gestora de Compras, Neumáticos Express Levante — Valência"
     },
     "t3": {
-      "text": "Mudámos para a ImpNeuRec há dois anos e não olhámos para trás. A qualidade dos seus produtos e a sua logística são de classe mundial.",
-      "author": "Hans Weber",
-      "role": "Gestor de Operações, TireMax GmbH"
+      "text": "Para a nossa frota de transporte, o custo por quilómetro é fundamental. A ImpNeuRec aconselha-nos em pneus comerciais para frotas e os seus preços de grossista permitiram-nos reduzir custos em 15%.",
+      "author": "Miguel Ángel Torres",
+      "role": "Diretor de Operações, Transportes Iberia — Sevilha"
+    }
+  },
+  "faq": {
+    "title": "Perguntas Frequentes",
+    "subtitle": "Respostas às suas dúvidas sobre a compra de pneus por grosso",
+    "q1": {
+      "question": "Qual é o pedido mínimo para comprar pneus por grosso?",
+      "answer": "Trabalhamos com pedidos mínimos adaptados a cada cliente. Quer seja uma oficina independente ou um grande distribuidor, temos condições flexíveis. Contacte a nossa equipa comercial para receber uma proposta personalizada de acordo com as suas necessidades de pneus por grosso."
+    },
+    "q2": {
+      "question": "Que marcas de pneus distribuem?",
+      "answer": "Distribuímos mais de 50 marcas de pneus, incluindo marcas premium europeias, marcas de qualidade-preço e marcas económicas. O nosso catálogo abrange pneus de turismo, SUV, comerciais e industriais para cobrir todas as necessidades do seu negócio."
+    },
+    "q3": {
+      "question": "Quais são os prazos de entrega de pneus?",
+      "answer": "Realizamos entregas em 24-48 horas para pedidos a partir do nosso armazém em Madrid para toda a Península Ibérica. Para pedidos de importação direta, os prazos variam entre 2-4 semanas conforme a origem e o volume."
+    },
+    "q4": {
+      "question": "Oferecem pneus comerciais para frotas de transporte?",
+      "answer": "Sim, somos especialistas em pneus comerciais para frotas. Oferecemos pneus para camiões, carrinhas e veículos comerciais com preços de grossista, contratos de fornecimento a longo prazo e aconselhamento técnico para otimizar o custo por quilómetro da sua frota."
+    },
+    "q5": {
+      "question": "Como posso solicitar um orçamento de pneus por grosso?",
+      "answer": "Pode solicitar orçamento através do formulário de contacto do nosso site, por email para info@impneurec.com ou ligando para +34 672 92 86 86. Indique as medidas, quantidades e tipo de pneu que necessita e receberá uma proposta em menos de 24 horas."
+    },
+    "q6": {
+      "question": "Distribuem pneus fora de Espanha?",
+      "answer": "Sim, além da nossa distribuição principal em Espanha, exportamos pneus para Portugal, França e outros países europeus. Contamos com logística internacional e experiência em exportação para oferecer um serviço completo de distribuição de pneus B2B em toda a Europa."
     }
   },
   "contact": {
-    "title": "Entre em Contacto",
-    "subtitle": "Pronto para ser nosso parceiro? Contacte-nos hoje.",
+    "title": "Solicite o Seu Orçamento",
+    "subtitle": "Receba uma proposta personalizada em menos de 24 horas.",
     "name": "Nome Completo",
     "email": "Endereço de Email",
     "phone": "Telefone",
-    "message": "A Sua Mensagem",
-    "send": "Enviar Mensagem",
+    "message": "Indique medidas, quantidades e tipo de pneu que necessita",
+    "send": "Enviar Pedido",
     "address": "Calle José Abascal, 44, Madrid, Espanha",
     "phoneNumber": "+34 672 92 86 86",
     "emailAddress": "info@impneurec.com",
     "cif": "CIF: B22468656"
   },
   "footer": {
-    "description": "O seu parceiro de confiança na distribuição premium de pneus em todo o mundo.",
+    "description": "Distribuidor de pneus por grosso em Madrid. Importador e fornecedor de pneus para oficinas, frotas e distribuidores em Espanha.",
     "quickLinks": "Links Rápidos",
     "contactInfo": "Informações de Contacto",
     "rights": "Todos os direitos reservados."

@@ -9,6 +9,7 @@ const navLinks = [
   { key: "products", href: "#products" },
   { key: "whyUs", href: "#why-us" },
   { key: "testimonials", href: "#testimonials" },
+  { key: "faq", href: "#faq" },
   { key: "contact", href: "#contact" },
 ] as const;
 
@@ -22,9 +23,9 @@ export function Header() {
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
           <a href="#" className="font-heading text-2xl font-bold tracking-wider">
-            <span className="text-accent">Imp</span>
-            <span className="text-text">Neu</span>
-            <span className="text-secondary">Rec</span>
+            <span className="text-text">imp</span>
+            <span className="text-text">neu</span>
+            <span className="text-accent">rec</span>
           </a>
 
           {/* Desktop nav */}

@@ -1,110 +1,139 @@
 {
   "meta": {
-    "title": "ImpNeuRec — Premium Tire Trading",
-    "description": "Your trusted partner in premium tire distribution. Quality tires for every road, every vehicle, every journey."
+    "title": "Wholesale Tire Distributor | ImpNeuRec",
+    "description": "Wholesale tire distributor in Madrid. Passenger, SUV, commercial and industrial tires from top brands. Request a quote."
   },
   "nav": {
     "about": "About",
     "products": "Products",
     "whyUs": "Why Us",
     "testimonials": "Testimonials",
+    "faq": "FAQ",
     "contact": "Contact"
   },
   "hero": {
-    "headline": "Driving the World Forward",
-    "subheadline": "Premium tire distribution for every road, every vehicle, every journey.",
-    "cta": "Get a Quote"
+    "headline": "Wholesale Tire Distributor in Spain",
+    "subheadline": "We import and distribute wholesale tires for workshops, fleets and distributors across Spain. Over 50 brands at competitive prices.",
+    "cta": "Request a Free Quote"
   },
   "about": {
-    "title": "About Us",
-    "subtitle": "Built on decades of expertise in the tire industry",
-    "description": "ImpNeuRec is a leading tire trading company connecting top manufacturers with distributors and retailers worldwide. We specialize in sourcing high-quality tires across all categories, ensuring competitive pricing and reliable supply chains.",
+    "title": "Your Trusted Tire Supplier",
+    "subtitle": "Wholesale tire importer and distributor based in Madrid",
+    "description": "ImpNeuRec is a wholesale tire distributor specializing in connecting top manufacturers with workshops, fleets and distributors in Spain. As a tire importer with direct factory access in Europe and Asia, we offer competitive wholesale pricing and reliable supply across all categories.",
     "quality": {
-      "title": "Quality First",
-      "description": "Every tire we trade meets rigorous international quality and safety standards."
+      "title": "European Standards",
+      "description": "All our tires comply with European homologation regulations and the highest safety standards."
     },
     "trust": {
-      "title": "Trusted Partners",
-      "description": "Long-standing relationships with the world's top tire manufacturers and brands."
+      "title": "Over 50 Brands",
+      "description": "Direct relationships with premium, mid-range and budget manufacturers worldwide."
     },
     "service": {
-      "title": "Full Service",
-      "description": "End-to-end logistics, competitive pricing, and dedicated account management."
+      "title": "B2B Distribution",
+      "description": "End-to-end logistics, wholesale pricing and dedicated account management for your business."
     }
   },
   "products": {
-    "title": "Our Products",
-    "subtitle": "Comprehensive tire solutions for every application",
+    "title": "Wholesale Tires",
+    "subtitle": "Complete catalog for workshops, fleets and distributors",
     "passenger": {
       "title": "Passenger Tires",
-      "description": "High-performance and all-season tires for sedans, hatchbacks, and coupes from leading global brands."
+      "description": "High-performance and all-season tires for passenger cars and compacts. Wholesale pricing on premium and budget brands."
     },
     "suv": {
       "title": "SUV & 4x4 Tires",
-      "description": "All-terrain and highway tires engineered for SUVs, crossovers, and off-road vehicles."
+      "description": "All-terrain and highway tires for SUVs and off-road vehicles. Permanent stock in the most popular sizes."
     },
     "commercial": {
       "title": "Commercial Tires",
-      "description": "Durable truck and van tires built for heavy loads, long distances, and maximum uptime."
+      "description": "Commercial tires for transport fleets, trucks and vans. Maximum durability and optimized cost per kilometer."
     },
     "industrial": {
-      "title": "Industrial Tires",
-      "description": "Specialized tires for forklifts, loaders, agricultural equipment, and industrial machinery."
+      "title": "Wholesale Industrial Tires",
+      "description": "Wholesale industrial tires for forklifts, loaders, agricultural and industrial machinery. Guaranteed supply."
     }
   },
   "whyUs": {
     "title": "Why Choose Us",
-    "subtitle": "Numbers that speak for themselves",
+    "subtitle": "Your go-to tire distributor in Spain",
     "years": "Years of Experience",
-    "brands": "Partner Brands",
-    "clients": "Satisfied Clients",
+    "brands": "Available Brands",
+    "clients": "Professional Clients",
     "diff1": {
-      "title": "Global Network",
-      "description": "Direct partnerships with manufacturers across Europe, Asia, and the Americas."
+      "title": "Direct Import",
+      "description": "Direct agreements with manufacturers in Europe, Asia and the Americas. No middlemen, better prices."
     },
     "diff2": {
-      "title": "Competitive Pricing",
-      "description": "Volume purchasing power that translates to better margins for your business."
+      "title": "Wholesale Pricing",
+      "description": "Volume purchasing power that translates to better margins for workshops and distributors."
     },
     "diff3": {
-      "title": "Fast Logistics",
-      "description": "Streamlined supply chain with warehousing and delivery across multiple continents."
+      "title": "24-48h Delivery",
+      "description": "Own warehouse in Madrid with permanent stock. Deliveries in 24-48 hours across the Iberian Peninsula."
     }
   },
   "testimonials": {
     "title": "What Our Clients Say",
-    "subtitle": "Trusted by distributors and retailers worldwide",
+    "subtitle": "Tire supplier for workshops and distributors across Spain",
     "t1": {
-      "text": "ImpNeuRec has been our primary tire supplier for over 5 years. Their reliability and product range are unmatched in the industry.",
-      "author": "Carlos Mendes",
-      "role": "Fleet Manager, TransLogística"
+      "text": "We've been buying wholesale tires from ImpNeuRec for over 5 years. Their brand catalog and delivery speed are key for our workshop. They always have stock in the sizes we need.",
+      "author": "Javier Manzanares",
+      "role": "Director, Talleres Manzanares — Madrid"
     },
     "t2": {
-      "text": "The team at ImpNeuRec understands our market needs. Fast deliveries, competitive prices, and outstanding customer service.",
-      "author": "Maria Fernández",
-      "role": "Purchasing Director, AutoPneus"
+      "text": "As tire distributors in the Levante region, we need a reliable supplier with competitive prices. ImpNeuRec offers real wholesale conditions and exceptional customer service.",
+      "author": "Laura Gómez",
+      "role": "Purchasing Manager, Neumáticos Express Levante — Valencia"
     },
     "t3": {
-      "text": "We switched to ImpNeuRec two years ago and haven't looked back. Their product quality and logistics are world-class.",
-      "author": "Hans Weber",
-      "role": "Operations Manager, TireMax GmbH"
+      "text": "For our transport fleet, cost per kilometer is fundamental. ImpNeuRec advises us on commercial fleet tires and their wholesale prices have helped us reduce costs by 15%.",
+      "author": "Miguel Ángel Torres",
+      "role": "Operations Director, Transportes Iberia — Seville"
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to common questions about buying wholesale tires",
+    "q1": {
+      "question": "What is the minimum order for buying wholesale tires?",
+      "answer": "We work with minimum orders tailored to each client. Whether you're an independent workshop or a large distributor, we have flexible conditions. Contact our sales team for a personalized proposal based on your wholesale tire needs."
+    },
+    "q2": {
+      "question": "What tire brands do you distribute?",
+      "answer": "We distribute over 50 tire brands, including premium European brands, mid-range and budget brands. Our catalog covers passenger, SUV, commercial and industrial tires to meet all your business needs."
+    },
+    "q3": {
+      "question": "What are your tire delivery times?",
+      "answer": "We deliver within 24-48 hours for orders from our Madrid warehouse to anywhere on the Iberian Peninsula. For direct import orders, lead times range from 2-4 weeks depending on origin and volume."
+    },
+    "q4": {
+      "question": "Do you offer commercial tires for transport fleets?",
+      "answer": "Yes, we specialize in commercial fleet tires. We offer tires for trucks, vans and commercial vehicles with wholesale pricing, long-term supply contracts and technical advice to optimize your fleet's cost per kilometer."
+    },
+    "q5": {
+      "question": "How can I request a wholesale tire quote?",
+      "answer": "You can request a quote through the contact form on our website, by email at info@impneurec.com or by calling +34 672 92 86 86. Provide the sizes, quantities and tire type you need and you'll receive a proposal within 24 hours."
+    },
+    "q6": {
+      "question": "Do you distribute tires outside Spain?",
+      "answer": "Yes, in addition to our main distribution in Spain, we export tires to Portugal, France and other European countries. We have international logistics and export experience to offer a complete B2B tire distribution service across Europe."
     }
   },
   "contact": {
-    "title": "Get in Touch",
-    "subtitle": "Ready to partner with us? Reach out today.",
+    "title": "Request Your Quote",
+    "subtitle": "Receive a personalized proposal in under 24 hours.",
     "name": "Full Name",
     "email": "Email Address",
     "phone": "Phone Number",
-    "message": "Your Message",
-    "send": "Send Message",
+    "message": "Specify tire sizes, quantities and type needed",
+    "send": "Send Request",
     "address": "Calle José Abascal, 44, Madrid, Spain",
     "phoneNumber": "+34 672 92 86 86",
     "emailAddress": "info@impneurec.com",
     "cif": "CIF: B22468656"
   },
   "footer": {
-    "description": "Your trusted partner in premium tire distribution worldwide.",
+    "description": "Wholesale tire distributor in Madrid. Importer and supplier of tires for workshops, fleets and distributors in Spain.",
     "quickLinks": "Quick Links",
     "contactInfo": "Contact Info",
     "rights": "All rights reserved."
